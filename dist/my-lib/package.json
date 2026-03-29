@@ -1,6 +1,8 @@
 {
   "name": "my-lib",
   "version": "0.0.1",
+  "main": "dist/my-lib/fesm2022/my-lib.mjs",
+  "types": "dist/my-lib/index.d.ts",
   "peerDependencies": {
     "@angular/common": "^18.2.0",
     "@angular/core": "^18.2.0"
